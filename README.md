@@ -1,8 +1,7 @@
 <h1 align="center"> Hi 👋, I’m Glowstudent</h1>
+
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Glowstudent777/Glowstudent777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
