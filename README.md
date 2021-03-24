@@ -1,5 +1,5 @@
 ![Glowstudent's GitHub Banner](banner.png)
-[![Visits Badge](https://badges.pufler.dev/visits/Glowstudent777/Glowstudent777)]()
+![counter](https://encm3ykyc5knbus.m.pipedream.net)
 
 <h1 align="center">Interests</h1>
 
