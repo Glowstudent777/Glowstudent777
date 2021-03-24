@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋, I’m Glowstudent</h1>
-
 ![Glowstudent's GitHub Banner](banner.png)
+
+<h1 align="center"> Hi 👋</h1>
 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
