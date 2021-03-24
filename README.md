@@ -1,4 +1,5 @@
 ![Glowstudent's GitHub Banner](banner.png)
+[![Visits Badge](https://badges.pufler.dev/visits/Glowstudent777/Glowstudent777)]()
 
 <h1 align="center">Interests</h1>
 
