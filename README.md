@@ -1,9 +1,10 @@
 ![Glowstudent's GitHub Banner](banner.png)
 
-<h1 align="center"> Hi 👋</h1>
+<h1 align="center">Interests</h1>
 
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- Coding
+- Games
+- Making Animations and Renders
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
