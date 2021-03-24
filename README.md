@@ -1,4 +1,4 @@
-# Hi, I’m Glowstudent
+# Hi👋, I’m Glowstudent
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
