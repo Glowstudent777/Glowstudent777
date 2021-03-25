@@ -10,7 +10,7 @@
 
 <h1 align="center">Programs</h1>
 <p align="center">
-
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/> </a>
 </p>
 
 <h1 align="Center">Connect with me:</h1>
