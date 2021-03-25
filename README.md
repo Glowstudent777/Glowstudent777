@@ -8,6 +8,8 @@
 - Animating
 - Rendering
 
+<h1 align="center">Stats</h1>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true)  
 
 <h1 align="center">Programs</h1>
