@@ -17,6 +17,6 @@
 <h1 align="Center">Connect with me:</h1>
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' src="icons/youtube.svg"/></a>
-<a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' src="icons/016-discord.svg"/></a>
+<a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' src="icons/discord.svg"/></a>
 <a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' src="icons/twitch.svg"/></a> 
 </p>
