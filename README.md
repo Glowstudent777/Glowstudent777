@@ -10,8 +10,8 @@
 
 <h1 align="center">Stats</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
 
 <h1 align="center">Programs</h1>
 <p align="center">
