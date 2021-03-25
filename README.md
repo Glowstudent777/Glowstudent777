@@ -10,11 +10,11 @@
 
 <h1 align="center">Stats</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Glowstudent&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Glowstudent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
 
 
 <h1 align="center">Programs</h1>
