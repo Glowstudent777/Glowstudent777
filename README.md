@@ -8,6 +8,11 @@
 - Animating
 - Rendering
 
+<h1 align="center">Programs</h1>
+<p align="center">
+
+</p>
+
 <h1 align="Center">Connect with me:</h1>
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' src="icons/116-youtube.svg"/></a>
