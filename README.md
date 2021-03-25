@@ -5,7 +5,8 @@
 
 - Coding
 - Games
-- Making Animations and Renders
+- Animating
+- Rendering
 
 <h1 align="Center">Connect with me:</h1>
 <p align="center">
