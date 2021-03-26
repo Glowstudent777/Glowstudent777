@@ -12,7 +12,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Glowstudent)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Glowstudent&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
 
