@@ -7,6 +7,8 @@
 - Games
 - Animating
 - Rendering
+- Fixing Things
+- Robotics
 
 <h1 align="center">About Me</h1>
 
