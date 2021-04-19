@@ -9,7 +9,9 @@
 - Rendering
 
 <h1 align="center">About Me</h1>
-I enjoy coding websites seeing how different elements interact and how everything falls together perfectly. I had started coding Minecraft Spigot Plugins awhile ago and have just recently reentered into the realm of creating these Plugins, But enough about that for now.
+I enjoy coding websites. Seeing how different elements interact and make the environment feel more welcoming. Just think for a moment, the entire web is made of just 1s and 0s.
+
+I had started coding Minecraft Spigot Plugins awhile ago and have just recently reentered into the realm of creating these Plugins, But enough about that for now.
 
 <h1 align="center">Stats</h1>
 
