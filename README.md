@@ -35,5 +35,6 @@ I enjoy coding websites seeing how different elements interact and how everythin
 
 <h1 align="Center">Support me</h1>
 <p align="center">
-<a href = 'https://www.patreon.com/Glowstudent'> <img width ='44px' align='center' src="icons/Patreon.svg"></a>
+<a href='https://www.patreon.com/Glowstudent'> <img width='44px' align='center' src="icons/Patreon.svg"></a>
+<a href='https://wlo.link/@Glowstudent'> <img width='44px' align='center' src="icons/Willow.svg"></a>
 </p>
