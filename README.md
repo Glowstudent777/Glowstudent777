@@ -9,7 +9,10 @@
 - Rendering
 
 <h1 align="center">About Me</h1>
+
+<p align="center">
 I enjoy coding websites. Seeing how different elements interact and make the environment feel more welcoming. Just think for a moment, the entire web is made of just 1s and 0s. Your probably bored reading this so I'll get to something more interesting, Minecraft Plugins. I started awhile ago and recently reentered the realm of creating these plugins.
+</p>
 
 <h1 align="center">Stats</h1>
 
