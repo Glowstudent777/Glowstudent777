@@ -12,7 +12,7 @@
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites. Seeing how different elements interact and make the environment feel more welcoming. Just think for a moment, the entire web is made of just 1s and 0s. Now your probably getting bored of reading all this nonsense so lets get to something more interesting, Minecraft Plugins. I started awhile ago and recently reentered the realm of creating these plugins. My first plugin was called BasicCommands, except I didn't know much so it was mostly copy and paste. Now that I know the code and what does what, I am reinventing it to be better and more user friendly.
+I enjoy coding websites. Seeing how different elements interact and make the environment feel more welcoming. Just think for a moment, the entire web is made of just 1s and 0s. Now your probably getting bored of reading all this nonsense so lets get to something more interesting, Minecraft Plugins. I started awhile ago and recently reentered the realm of creating these plugins. My first plugin was called BasicCommands, except I didn't know much so it was mostly copy and paste. Now that I know the code and what does what, I am reinventing it to be better and more user friendly. You can find it <a href="https://github.com/Glowstudent777/BasicCommands">here</a>.
 
 </p>
 
