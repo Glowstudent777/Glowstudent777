@@ -8,6 +8,9 @@
 - Animating
 - Rendering
 
+<h1 align="center">About Me</h1>
+I enjoy coding websites seeing how different elements interact and how everything falls together perfectly. I had started coding Minecraft Spigot Plugins awhile ago and have just recently reentered into the realm of creating these Plugins, But enough about that for now.
+
 <h1 align="center">Stats</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
@@ -29,3 +32,6 @@
 <a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' src="icons/discord.svg"/></a>
 <a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' src="icons/twitch.svg"/></a> 
 </p>
+
+<h1 align="Center">Support me</h1>
+<a href = 'https://www.patreon.com/Glowstudent'> <img width = '44px' align= 'center' src="icons/Patreon.svg"></a>
