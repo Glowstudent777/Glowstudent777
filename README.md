@@ -22,10 +22,8 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
 
-![Discord Shield](https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner2)
 
 
 <h1 align="center">Programs</h1>
@@ -47,3 +45,7 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 <a href='https://www.paypal.me/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="PayPal" src="icons/paypal.svg"></a>
 <a href='https://wlo.link/@Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Willow" src="icons/Willow.svg"></a>
 </p>
+
+<h1 align="Center">Join my Discord</h1>
+
+![Discord Shield](https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner2)
