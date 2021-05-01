@@ -22,9 +22,10 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Glowstudent&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
+
+![Discord Shield](https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner2)
 
 
 <h1 align="center">Programs</h1>
