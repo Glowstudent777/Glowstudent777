@@ -1,7 +1,3 @@
-<head>
-      <link rel="stylesheet" href="main.css">
-</head>
-
 ![Glowstudent's GitHub Banner](banner.png)
 ![counter](https://encm3ykyc5knbus.m.pipedream.net)
 
@@ -51,6 +47,8 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 </p>
 
 <h1 align="Center">Join my Discord</h1>
-<a href="https://discord.com/invite/4wM63P7ZUd" align="center">
-<img class="center" src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
+<a href="https://discord.com/invite/4wM63P7ZUd">
+      <p align="center">
+            <img src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
+      </p>
 </a>
