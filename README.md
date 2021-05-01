@@ -47,5 +47,6 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 </p>
 
 <h1 align="Center">Join my Discord</h1>
-
-![Discord Shield](https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner2)
+<a align="center">
+  <img src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
+</a>
