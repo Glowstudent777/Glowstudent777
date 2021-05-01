@@ -48,5 +48,5 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 
 <h1 align="Center">Join my Discord</h1>
 <a align="center">
-  <img src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
+  <img align="center" src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
 </a>
