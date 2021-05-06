@@ -14,8 +14,7 @@
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites. Seeing how different elements and styling interact with the environment. Just think for a moment, the entire web is made of just 1s and 0s. Now your probably getting bored of reading all this nonsense so lets get to something more interesting, Minecraft Plugins. I started awhile ago and recently reentered the realm of creating these plugins. My first plugin I ever made was called BasicCommands, except I didn't know much so it was mostly copy and pasted. Now that I know how to code and what does what, I am recreating it to be better and more user friendly. You can find it <a href="https://github.com/Glowstudent777/BasicCommands">here</a>.
-
+I enjoy coding websites. Seeing how different elements and styling interact with the environment. Just think for a moment, the entire web is made of just 1s and 0s. Now your probably getting bored of reading all this nonsense so lets get to something more interesting, my recent projects. I started making a Spigot plugin awhile ago and recently began to update it and add more features and clean up the code. You can view my creations and code in <a href="https://github.com/Glowstudent777?tab=repositories">repositories</a>. I have been creating a website which can be found <a href="https://github.com/Glowstudent777/web.github.io">here</a>. This website is just a test website for testing elements and features on. I'm currently learning Java and c++.
 </p>
 
 <h1 align="center">Stats</h1>
