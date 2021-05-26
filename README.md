@@ -14,7 +14,7 @@
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites. Seeing how different elements and styling interact with the environment. Just think for a moment, the entire web is made of just 1s and 0s. Now your probably getting bored of reading all this nonsense so lets get to something more interesting. I started making a Spigot plugin awhile ago and recently began to update it; adding new features and clean up the code. You can view my creations and code in <a href="https://github.com/Glowstudent777?tab=repositories">repositories</a>. I have been creating a website which can be found <a href="https://github.com/Glowstudent777/web.github.io">here</a>. This website is just a test website for testing elements and features on. I'm currently learning Java and c++.
+I enjoy coding websites. Seeing how different elements and styling interact with the environment. Just think for a moment, the entire web is made of just 1s and 0s. I am learning to develop applications. Becoming Fullstack Developer.
 </p>
 
 <h1 align="center">Stats</h1>
