@@ -9,12 +9,14 @@
 - Rendering
 - Fixing Things
 - Robotics
+- Outside
+- Sports
 
 <h1 align="center">About Me</h1>
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites. Seeing how different elements and styling interact with the environment. Just think for a moment, the entire web is made of just 1s and 0s. I am learning to develop applications. Becoming Fullstack Developer. Developing Open Source code for everyone
+I enjoy coding websites. Seeing how different elements and styling interact with the environment. I am learning to develop applications. Becoming Fullstack Developer. Developing Open Source code for everyone
 </p>
 
 <h1 align="center">Stats</h1>
