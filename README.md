@@ -43,7 +43,7 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 <h1 align="Center">Support me</h1>
 <p align="center">
 <a href='https://www.patreon.com/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Patreon" src="icons/Patreon.svg"></a>
-<a href='https://www.paypal.me/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="PayPal" src="icons/paypal.svg"></a>
+// <a href='https://www.paypal.me/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="PayPal" src="icons/paypal.svg"></a>
 <!--- <a href='https://wlo.link/@Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Willow" src="icons/Willow.svg"></a> --->
 </p>
 
