@@ -1,15 +1,10 @@
 ![Glowstudent's GitHub Banner](banner.png)
 <!--- ![counter](https://encm3ykyc5knbus.m.pipedream.net) --->
 
-<p align="center">
+<div align="center">
   
-<!-- <a href="https://discord.gg/4wM63P7ZUd"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> -->
-  
-  
-  <img src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=shield">
-  
-  <img src="https://komarev.com/ghpvc/?username=glowstudent777&color=blue&style=flat-square">
-</p>
+<a href="https://discord.gg/4wM63P7ZUd"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> <img src="https://komarev.com/ghpvc/?username=glowstudent777&color=blue&style=flat-square">
+</div>
 
 
 <h1 align="center">Interests</h1>
@@ -32,10 +27,13 @@ I enjoy coding websites and discord bots.
 
 <h1 align="center">Stats</h1>
 
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowstudent777&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)
 
+</div>
 
 
 <h1 align="center">Programs</h1>
