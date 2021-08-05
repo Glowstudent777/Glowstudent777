@@ -2,7 +2,7 @@
 <!--- ![counter](https://encm3ykyc5knbus.m.pipedream.net) --->
 
 <p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/4wM63P7ZUd"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <img src="https://komarev.com/ghpvc/?username=glowstudent777&color=blue&style=flat-square">
 </p>
 
