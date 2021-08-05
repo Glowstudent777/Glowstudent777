@@ -1,5 +1,6 @@
 ![Glowstudent's GitHub Banner](banner.png)
-![counter](https://encm3ykyc5knbus.m.pipedream.net)
+<!--- ![counter](https://encm3ykyc5knbus.m.pipedream.net) --->
+![](https://komarev.com/ghpvc/?username=glowstudent777&color=blue)
 
 <h1 align="center">Interests</h1>
 
