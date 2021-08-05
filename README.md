@@ -22,7 +22,7 @@
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites. Seeing how different elements and styling interact with the environment. I am learning to develop applications. Becoming Fullstack Developer. Developing Open Source code for everyone
+I enjoy coding websites and discord bots.
 </p>
 
 <h1 align="center">Stats</h1>
@@ -46,16 +46,7 @@ I enjoy coding websites. Seeing how different elements and styling interact with
 <a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Twitch" src="icons/twitch.svg"/></a> 
 </p>
 
-<h1 align="Center">Support me</h1>
+<!-- <h1 align="Center">Support me</h1>
 <p align="center">
 <a href='https://www.patreon.com/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Patreon" src="icons/Patreon.svg"></a>
-<!--- <a href='https://www.paypal.me/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="PayPal" src="icons/paypal.svg"></a> --->
-<!--- <a href='https://wlo.link/@Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Willow" src="icons/Willow.svg"></a> --->
-</p>
-
-<h1 align="Center">Join my Discord</h1>
-<a href="https://discord.com/invite/4wM63P7ZUd">
-      <p align="center">
-            <img src="https://discordapp.com/api/guilds/774005477617041440/widget.png?style=banner4" alt="Discord Banner 4"/>
-      </p>
-</a>
+</p> -->
