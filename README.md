@@ -1,6 +1,11 @@
 ![Glowstudent's GitHub Banner](banner.png)
 <!--- ![counter](https://encm3ykyc5knbus.m.pipedream.net) --->
-![](https://komarev.com/ghpvc/?username=glowstudent777&color=blue)
+
+<p align="center">
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<img src="https://komarev.com/ghpvc/?username=glowstudent777&color=blue&style=flat-square">
+</p>
+
 
 <h1 align="center">Interests</h1>
 
