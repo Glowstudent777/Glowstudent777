@@ -24,7 +24,7 @@ I enjoy coding websites and discord bots.
 </div>
 
 
-<h1 align="center">Programs</h1>
+<h1 align="center">Programs I use</h1>
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img style="cursor:pointer;" title="Intellij Idea" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img style="cursor:pointer;" title="Visual Studio Code" src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/> </a>
