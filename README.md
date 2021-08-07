@@ -6,18 +6,6 @@
 <a href="https://discord.gg/4wM63P7ZUd"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> <img src="https://komarev.com/ghpvc/?username=glowstudent777&color=blue&style=flat-square">
 </div>
 
-
-<h1 align="center">Interests</h1>
-
-- Coding
-- Games
-- Animating
-- Rendering
-- Fixing Things
-- Robotics
-- Outside
-- Sports
-
 <h1 align="center">About Me</h1>
 
 <p align="left" text-indent='10px'>
