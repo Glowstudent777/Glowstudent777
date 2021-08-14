@@ -36,8 +36,3 @@ I enjoy coding websites and discord bots.
 <a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Discord Server" src="icons/discord.svg"/></a>
 <a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Twitch" src="icons/twitch.svg"/></a> 
 </p>
-
-<!-- <h1 align="Center">Support me</h1>
-<p align="center">
-<a href='https://www.patreon.com/Glowstudent'> <img width='44px' align='center' style="cursor:pointer;" title="Patreon" src="icons/Patreon.svg"></a>
-</p> -->
