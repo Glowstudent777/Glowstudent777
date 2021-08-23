@@ -10,7 +10,7 @@
 
 <p align="left" text-indent='10px'>
   
-I enjoy coding websites and discord bots.
+I'm a Website coder, Discord bot developer and Minecraft plugin creator
 </p>
 
 <h1 align="center">Stats</h1>
