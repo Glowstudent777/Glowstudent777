@@ -24,7 +24,7 @@ I'm a Website coder, Discord bot developer and Minecraft plugin creator
 </div>
 
 
-<h1 align="center">Programs I use</h1>
+<h1 align="center">Software</h1>
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img style="cursor:pointer;" title="Intellij Idea" src="icons/intellij.svg" alt="Intellij" width="40" height="40"/> </a>
  <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img style="cursor:pointer;" title="Webstorm" src="icons/webstorm.svg" alt="Webstorm" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@ I'm a Website coder, Discord bot developer and Minecraft plugin creator
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img style="cursor:pointer;" title="Visual Studio" src="icons/vs.svg" alt="Visual Studio" width="40" height="40"/> </a>
 </p>
 
-<h1 align="Center">Connect with me:</h1>
+<h1 align="Center">Connect with me</h1>
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Youtube Channel" src="icons/youtube.svg"/></a>
 <a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Discord Server" src="icons/discord.svg"/></a>
