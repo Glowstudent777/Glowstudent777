@@ -1,4 +1,4 @@
-![Glowstudent's GitHub Banner](banner.png)
+![Banner](banner.png)
 <!--- ![counter](https://encm3ykyc5knbus.m.pipedream.net) --->
 
 <div align="center">
