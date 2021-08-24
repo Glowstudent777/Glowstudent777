@@ -36,5 +36,5 @@ I'm a Website coder, Discord bot developer and Minecraft plugin creator
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Youtube Channel" src="icons/youtube.svg"/></a>
 <a href = 'https://discord.com/invite/4wM63P7ZUd'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Discord Server" src="icons/discord.svg"/></a>
-<a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Twitch" src="icons/twitch.svg"/></a> 
+// <a href = 'https://www.twitch.tv/glowstudent'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Twitch" src="icons/twitch.svg"/></a> 
 </p>
