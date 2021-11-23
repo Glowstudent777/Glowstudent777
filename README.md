@@ -32,6 +32,11 @@ I'm a Website coder, Discord bot developer and Minecraft plugin creator
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img style="cursor:pointer;" title="Visual Studio" src="icons/vs.svg" alt="Visual Studio" width="40" height="40"/> </a>
 </p>
 
+<h1 align="Center">Joke</h1>
+<p align="center">
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="README Jokes"></a>
+</p>
+
 <h1 align="Center">Connect with me</h1>
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Youtube Channel" src="icons/youtube.svg"/></a>
