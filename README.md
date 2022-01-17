@@ -34,7 +34,9 @@ I'm a learning website coder, decent Discord bot developer and not very good Min
 
 <h1 align="Center">Joke</h1>
 <p align="center">
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="README Jokes"></a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 </p>
 
 <h1 align="Center">Activity</h1>
