@@ -37,6 +37,10 @@ I'm a learning website coder, decent Discord bot developer and not very good Min
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="README Jokes"></a>
 </p>
 
+<h1 align="Center">Activity</h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/557691883518951435)](https://discord.com/users/557691883518951435)
+
 <h1 align="Center">Connect with me</h1>
 <p align="center">
 <a href = 'https://www.youtube.com/channel/UCVaCrjoH8F1eygFMC7gTDeg'> <img width = '44px' align= 'center' style="cursor:pointer;" title="Youtube Channel" src="icons/youtube.svg"/></a>
