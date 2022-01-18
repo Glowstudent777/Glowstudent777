@@ -33,15 +33,18 @@ I'm a learning website coder, decent Discord bot developer and not very good Min
 </p>
 
 <h1 align="Center">Joke</h1>
-<p align="center">
+<div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-</p>
+</div>
 
 <h1 align="Center">Activity</h1>
-
+<div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/557691883518951435)](https://discord.com/users/557691883518951435)
+
+</div>
 
 <h1 align="Center">Connect with me</h1>
 <p align="center">
