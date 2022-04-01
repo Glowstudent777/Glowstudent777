@@ -1,7 +1,11 @@
 # Hey there, I'm Glow
   
 ### 👨‍💻 &nbsp;About Me :
-I'm a learning web developer.
+
+- 🔭 I'm a learning web developer.
+- 🌱 Interested in learning C#.
+- ⚡ In my free time I code and play games 🎮.
+- 📫 How to reach me: &nbsp; [![Discord](https://img.shields.io/badge/-Glowstudent-5865F2?style=flat&logo=Discord&logoColor=white)](https://inv.wtf/glow)
 
 ---
 
@@ -9,6 +13,9 @@ I'm a learning web developer.
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -20,6 +27,8 @@ I'm a learning web developer.
 
 ### 📊 &nbsp;Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
