@@ -20,13 +20,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </p>
 
----
-
 ### 💻 &nbsp;Software :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </p>
+
+---
 
 ### 😆 &nbsp;Joke :
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
