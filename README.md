@@ -28,11 +28,6 @@
 
 ---
 
-### 😆 &nbsp;Joke :
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
----
-
 ### 📊 &nbsp;Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
 
