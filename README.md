@@ -1,5 +1,8 @@
 # Hey there, I'm Glow
-  
+<p align="center">
+<img src="bannerThing.svg" width="400" height="400"/>&nbsp;
+</p>
+
 ### 👨‍💻 &nbsp;About Me :
 
 - 🔭 I'm a learning web developer.
