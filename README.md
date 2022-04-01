@@ -23,6 +23,6 @@ I'm a learning web developer.
 
 ---
 
-### <img src="https://github.com/gilbarbara/logos/blob/master/logos/discord-icon.svg" width="20" height="20"/> &nbsp;Discord Stuff :
+### <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff :
 [![Discord Presence](https://lanyard.cnrad.dev/api/557691883518951435)](https://discord.com/users/557691883518951435)
 [![Join the Cardboard Box](https://inv.wtf/widget/glow)](https://inv.wtf/glow)
