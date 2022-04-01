@@ -4,8 +4,8 @@
 
 - 🔭 I'm a learning web developer.
 - 🌱 Interested in learning C#.
-- ⚡ In my free time I code and play games 🎮.
-- 📫 How to reach me: &nbsp; [![Discord](https://img.shields.io/badge/-Glowstudent-5865F2?style=flat&logo=Discord&logoColor=white)](https://inv.wtf/glow)
+- ⚡ In my free time I code and hangout with friends.
+- 📫 How to reach me: &nbsp;[![Discord](https://img.shields.io/badge/-Glowstudent-5865F2?style=flat&logo=Discord&logoColor=white)](https://inv.wtf/glow)
 
 ---
 
