@@ -1,6 +1,6 @@
 # Hey there, I'm Glow
 <p align="center">
-<img src="bannerThing.svg" width="400" height="400"/>&nbsp;
+<img src="bannerThing.svg">&nbsp;
 </p>
 
 ### 👨‍💻 &nbsp;About Me :
