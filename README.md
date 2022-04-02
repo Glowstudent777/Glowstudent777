@@ -4,11 +4,12 @@
 </p>
 
 ### 👨‍💻 &nbsp;About Me :
+#### I'm a learning web developer.
 
-- 🔭 I'm a learning web developer.
-- 🌱 Interested in learning C#.
+- 👋 I'm currently working on a Discord bot and a website.
+- 🌱 Interested in engineering and coding.
 - ⚡ In my free time I code and hangout with friends.
-- 📫 How to reach me: &nbsp;[![Discord](https://img.shields.io/badge/-Glowstudent-5865F2?style=flat&logo=Discord&logoColor=white)](https://inv.wtf/glow)
+- 📫 The best way to reach me is on [Discord](inv.wtf/glow).
 
 ---
 
