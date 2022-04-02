@@ -9,7 +9,7 @@
 - 👋 I'm currently working on a Discord bot and a website.
 - 🌱 Interested in engineering and coding.
 - ⚡ In my free time I like hanging out with friends.
-- 📫 The best way to reach me is on [Discord](inv.wtf/glow).
+- 📫 The best way to reach me is on [Discord](https://inv.wtf/glow).
 
 ---
 
