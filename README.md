@@ -14,9 +14,9 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-<p>
+<p>  
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,mongodb,stackoverflow,bots)](https://skillicons.dev)
   
 </p>
 
