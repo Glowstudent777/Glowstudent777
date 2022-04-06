@@ -14,8 +14,10 @@
 ---
 
 ### 🙏 &nbsp;Programmer's Prayer :
+
 <p align="center">
-Our program, who art in memory,<br>
+  
+> Our program, who art in memory,<br>
 called by thy name;<br>
 thy operating system run;<br>
 thy function be done at runtime<br>
@@ -30,6 +32,7 @@ For thine is the algorithm,<br>
 the computation, and the solution,<br>
 looping forever and ever.<br>
 Return;<br>
+  
 </p>
 
 ---
