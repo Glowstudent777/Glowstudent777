@@ -1,7 +1,10 @@
 # Hey there, I'm Glow
-<p align="center">
-<img src="bannerThing.svg">&nbsp;
-</p>
+
+<div align="center">
+
+[![img](bannerThing.svg)](#)
+
+</div>
 
 ### 👨‍💻 &nbsp;About Me :
 #### I'm a learning web developer.
