@@ -24,7 +24,7 @@
 called by thy name;<br>
 thy operating system run;<br>
 thy function be done at runtime<br>
-as it was on development.<br>
+as it was in development.<br>
 Give us this day our daily output.<br>
 And forgive us our code duplication,<br>
 as we forgive those who<br>
