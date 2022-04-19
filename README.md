@@ -43,7 +43,7 @@ Return;<br>
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,mongodb,stackoverflow,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,mongodb,stackoverflow,bots&perline=5)](https://skillicons.dev)
   
 </p>
 
