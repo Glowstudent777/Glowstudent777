@@ -9,8 +9,8 @@
 ### 👨‍💻 &nbsp;About Me :
 #### I'm a learning web developer.
 
-- 👋 I work mostly with websites and Discord bots.
-- 🌱 Interested in engineering and coding.
+- 👋 I work mostly with websites, Discord bots, and anti-phishing stuff.
+- 🌱 Interested in engineering, coding, and malware.
 - ⚡ In my free time I like hanging out with friends.
 - 📫 The best way to reach me is on [Discord](https://inv.wtf/glow).
 
