@@ -30,6 +30,13 @@
 </p>
 
 
+<h2 align="center">⭐ &nbsp;Favorite Project:</h2>
+
+<p align="center">  
+  <a href="https://github.com/Glowstudent777/YouVersion-API"><img src="https://github-readme-stats-glowstudent.vercel.app/api/pin/?username=glowstudent777&repo=YouVersion-API&show_owner=true"/>
+</p>
+  
+
 # My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
