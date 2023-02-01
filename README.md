@@ -64,7 +64,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-glowstudent.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-glowstudent.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
