@@ -8,6 +8,8 @@
 
 # About Me
 
+I'm a student and self-taught developer.
+
 💡 I enjoy working with stuff like Bots and Cybersecurity related stuff.
 
 🌱 I am interested in Machine Learning and Malware.
@@ -46,13 +48,6 @@
 <img alt="Gradle" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> 
 <img alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
 </p>
-
-<!-- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=au,blender,bootstrap,cs,cloudflare,css,discord,bots,git,github,githubactions,html,idea&perline=13"/>
-  <img src="https://skillicons.dev/icons?i=ai,java,js,kotlin,linux,mongodb,nodejs,ps,raspberrypi,react,visualstudio,vscode&perline=13"/>
-</p>
- -->
 
 <h2 align="center">⭐ &nbsp;Favorite Project:</h2>
 
