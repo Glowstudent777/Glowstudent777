@@ -7,7 +7,9 @@
 </div>
 
 # About Me
+
 <a href="https://discord.com/users/557691883518951435"><img align="right" src="https://lanyard.cnrad.dev/api/557691883518951435"/></a>
+<br/>
 
 I'm a student and self-taught developer.
 
