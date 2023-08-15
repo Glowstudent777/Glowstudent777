@@ -11,7 +11,7 @@
 <p>I'm a self taught developer. I'm currently working on Phish Net, my Discord Bot that is commited to ridding the internet of scummy phish.</p>
 <p>I enjoy learning about Cybersecurity and how it is constantly evolving. Other than learning about Cybersecurity and how Malware is built and spread, I am interested in Game Development and how many of the older games were created (DOOM: 1993, Wolfenstein 3D, etc)</p>
 
-<h2 align="center">🛠 &nbsp;Tech Stack:</h2>
+<h2 align="center">🛠 &nbsp;Languages & Tools:</h2>
 
 <p align="center">
   <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
