@@ -6,20 +6,10 @@
 
 </div>
 
-# About Me
+## About Me
 
-<a href="https://discord.com/users/557691883518951435"><img align="right" src="https://lanyard.cnrad.dev/api/557691883518951435"/></a>
-<br/>
-
-I'm a student and self-taught developer.
-
-💡 I enjoy learning about Cybersecurity.
-
-🌱 I am interested in Game Development and Malware.
-
-<br/>
-<br/>
-<br/>
+<p>I'm a self taught developer. I'm currently working on Phish Net, my Discord Bot that is commited to ridding the internet of scummy phish.</p>
+<p>I enjoy learning about Cybersecurity and how it is constantly evolving. Other than learning about Cybersecurity and how Malware is built and spread, I am interested in Game Development and how many of the older games were created (DOOM: 1993, Wolfenstein 3D, etc)</p>
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
@@ -46,23 +36,9 @@ I'm a student and self-taught developer.
 <img alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
 </p>
 
-<h2 align="center">⭐ &nbsp;Favorite Project:</h2>
-
-<p align="center">  
-  <a href="https://github.com/Glowstudent777/YouVersion-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glowstudent777&repo=YouVersion-API&show_owner=true"/></a>
-</p>
-  
-
-<h2 align="center">&nbsp;My GitHub Stats:</h2>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&langs_count=8"/>
-</p>
-
 #
 
 <div align="center">
+  <a href="https://discord.com/users/557691883518951435"><img src="https://lanyard.cnrad.dev/api/557691883518951435"/></a>
   <a href="https://inv.wtf/glow"><img src="https://inv.wtf/widget/glow" width="75%"/></a>
 </div>
