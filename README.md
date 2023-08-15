@@ -7,22 +7,17 @@
 </div>
 
 # About Me
+<a href="https://discord.com/users/557691883518951435"><img align="right" src="https://lanyard.cnrad.dev/api/557691883518951435"/></a>
 
 I'm a student and self-taught developer.
 
-💡 I enjoy working with stuff like Bots and Cybersecurity related stuff.
+💡 I enjoy learning about Cybersecurity.
 
-🌱 I am interested in Machine Learning and Malware.
+🌱 I am interested in Game Development and Malware.
 
-⚡ In my free time, I like hanging out with friends, listening to music, playing guitar, and reading.
-
-
-<h2 align="center">🎧 &nbsp;I'm Listending To:</h2>
-
-<p align="center">  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u2xq19lm4uq2r3hm8lq19n8&cover_image=true&theme=compact&show_offline=false&background_color=121212"/>
-</p>
-
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
@@ -52,19 +47,20 @@ I'm a student and self-taught developer.
 <h2 align="center">⭐ &nbsp;Favorite Project:</h2>
 
 <p align="center">  
-  <a href="https://github.com/Glowstudent777/YouVersion-API"><img src="https://github-readme-stats-glowstudent.vercel.app/api/pin/?username=glowstudent777&repo=YouVersion-API&show_owner=true"/>
+  <a href="https://github.com/Glowstudent777/YouVersion-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glowstudent777&repo=YouVersion-API&show_owner=true"/></a>
 </p>
   
 
-# My stats
+<h2 align="center">&nbsp;My GitHub Stats:</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&langs_count=8"/>
+</p>
 
-[![Top Langs](https://github-readme-stats-glowstudent.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+#
 
-
-<h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
-
-<a href="https://discord.com/users/557691883518951435"><img src="https://lanyard.cnrad.dev/api/557691883518951435"/></a>
-
-<a href="https://inv.wtf/glow"><img src="https://inv.wtf/widget/glow" width="450" height="110"/></a>
+<div align="center">
+  <a href="https://inv.wtf/glow"><img src="https://inv.wtf/widget/glow" width="75%"/></a>
+</div>
