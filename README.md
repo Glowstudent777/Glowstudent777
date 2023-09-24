@@ -22,9 +22,16 @@
   <img alt="Node" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
   <img alt="React" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
   <img alt="Next" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
+  <img alt="Docker" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
   <img alt="MySQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   <img alt="Prisma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
   <img alt="MonoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+</p>
+
+<h2 align="center">🔗 &nbsp;Connect With Me:</h2>
+<p align="center">
+  <a href="https://discord.gg/QxdpUQ3HCf" target="_blank" rel="noopener noreferrer"><img alt="Discord" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" /></a>
+  <a href="https://guilded.gg/u/Glowstudent" target="_blank" rel="noopener noreferrer"><img alt="Guilded" width="45px" style="padding-right:10px;" src="https://github.com/Glowstudent777/Servicons/blob/main/icons/Guilded.svg" /></a>
 </p>
 
 #
