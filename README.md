@@ -25,7 +25,14 @@
   <img alt="Docker" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
   <img alt="MySQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   <img alt="Prisma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
-  <img alt="MonoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+  <img alt="MongoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+</p>
+
+<h2 align="center">🎒 &nbsp;Currently Learning:</h2>
+
+<p align="center">
+  <a href="https://www.monogame.net/" target="_blank" rel="noopener noreferrer"><img alt="MonoGame" width="45px" style="padding-right:10px;" src="https://github.com/Glowstudent777/Servicons/blob/main/icons/MonoGame.svg" /></a>
+  <img alt="CPP" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
 </p>
 
 <h2 align="center">🔗 &nbsp;Connect With Me:</h2>
