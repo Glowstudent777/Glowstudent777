@@ -8,7 +8,7 @@
 
 ## About Me
 
-<p>I'm a self taught developer. I'm currently working on Phish Net, my Discord Bot that is commited to ridding the internet of scummy phish.</p>
+<p>I'm a self taught developer. I'm currently working on an anti-phishing service called <a href="https://github.com/Phish-Net">Phish Net</a>.</p>
 <p>I enjoy learning about Cybersecurity and how it is constantly evolving. Other than learning about Cybersecurity and how Malware is built and spread, I am interested in Game Development and how many of the older games were created (DOOM: 1993, Wolfenstein 3D, etc)</p>
 
 <h2 align="center">🛠 &nbsp;Languages & Tools:</h2>
