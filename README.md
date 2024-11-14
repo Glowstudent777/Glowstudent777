@@ -24,6 +24,7 @@
   <img alt="Next" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
   <a href="https://docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/></a>
   <img alt="MySQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  <img alt="PostgreSQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
   <img alt="Prisma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
   <img alt="MongoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
   <a href="https://figma.com/" target="_blank" rel="noopener noreferrer"><img alt="Figma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/></a>
