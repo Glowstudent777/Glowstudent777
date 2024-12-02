@@ -14,27 +14,59 @@
 <h2 align="center">🛠 &nbsp;Languages & Tools:</h2>
 
 <p align="center">
-  <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
-  <img alt="TypeScript" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" />
-  <img alt="Java" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-  <img alt="CS" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
-  <img alt="DotNet" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
-  <img alt="Node" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
-  <img alt="React" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
-  <img alt="Next" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
-  <a href="https://docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/></a>
-  <img alt="MySQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-  <img alt="PostgreSQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
-  <img alt="Prisma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
-  <img alt="MongoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
-  <a href="https://figma.com/" target="_blank" rel="noopener noreferrer"><img alt="Figma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="TypeScript" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
+    <img alt="Java" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+    <img alt="C#" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">
+    <img alt="DotNet" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Node" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img alt="React" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Next" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
+  </a>
+  <a href="https://docker.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Docker" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="MySQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="PostgreSQL" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
+    <img alt="Prisma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="MongoDB" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+  </a>
+  <a href="https://figma.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Figma" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+  </a>
 </p>
 
 <h2 align="center">🎒 &nbsp;Currently Learning:</h2>
 
 <p align="center">
-  <a href="https://www.monogame.net/" target="_blank" rel="noopener noreferrer"><img alt="MonoGame" width="45px" style="padding-right:10px;" src="https://github.com/Glowstudent777/Servicons/blob/main/icons/MonoGame.svg" /></a>
-  <img alt="CPP" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
+  <a href="https://www.monogame.net/" target="_blank" rel="noopener noreferrer">
+    <img alt="MonoGame" width="45px" style="padding-right:10px;" src="https://github.com/Glowstudent777/Servicons/blob/main/icons/MonoGame.svg" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="CPP" width="45px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
+  </a>
 </p>
 
 <h2 align="center">🔗 &nbsp;Connect With Me:</h2>
